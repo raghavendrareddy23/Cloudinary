@@ -1,0 +1,5 @@
+CLOUDINARY_CLOUD_NAME = "Your Cloud Name"
+CLOUDINARY_API_KEY = "Your Cloud API"
+CLOUDINARY_SECRET_KEY = "Your Cloud Secret"
+PORT = 5000
+MONGO_URI = "Mongo url"
